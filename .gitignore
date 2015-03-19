@@ -1,0 +1,5 @@
+*.pyc
+*.p
+config.ini
+*.ipynb
+ipynb_checkpoints
